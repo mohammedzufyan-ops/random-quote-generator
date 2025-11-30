@@ -12,4 +12,4 @@ A simple web project that displays a random motivational quote when you click a 
 2. Open index.html in any browser
 
 ## Screenshot
-(Add your own screenshot here)
+![screenshot](quote-generator.jpg)
